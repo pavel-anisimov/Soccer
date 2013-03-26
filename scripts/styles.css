@@ -1,0 +1,171 @@
+body {
+	background-color:#587d22;
+	background-image:url('../images/pitch.png');
+	font-family: Verdana, sans-serif;
+} 
+
+
+a:link{  /* unvisited link */
+  font-family:Verdana,Sans-serif;
+  color:maroon;
+  text-decoration: none;
+}
+
+a:visited{  /* visited link */
+  font-family:Verdana,Sans-serif;
+  color:maroon;
+  text-decoration: none;
+}
+
+a:hover{   /* mouse over link */
+  font-family:Verdana,Sans-serif;
+  color:red;
+  text-decoration: underline;
+}
+
+
+a.white:link{  /* unvisited link */
+  font-family:Verdana,Sans-serif;
+  color:blue;
+  text-decoration: none;
+}
+
+a.white:visited{  /* visited link */
+  font-family:Verdana,Sans-serif;
+  color:blue;
+  text-decoration: none;
+}
+
+a.white:hover{   /* mouse over link */
+  font-family:Verdana,Sans-serif;
+  color:000070;
+  text-decoration: underline;
+}
+
+
+
+div.copyright {
+	background-color:yellow;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+}
+
+div.margin {
+	margin-top:100px;
+	margin-bottom:100px;
+	margin-right:50px;
+	margin-left:50px;
+}
+
+img.corner {
+	position:absolute;
+	bottom:10px;
+	left:10px;
+}
+
+
+img.top {
+
+	margin: 0px 0px;
+	align: center;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+}
+
+div.transbox {
+
+	margin: 5px 5px;
+	align: center;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+}
+
+div.transbox p {
+	margin: 5px 5px;
+	font-weight: ;
+	color: #000000;
+}
+
+table.top{
+
+	margin: 0px 0px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+	bottom:40px;
+}
+
+table.copyright{
+
+	margin: 0px 0px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+	bottom:40px;
+}
+
+table.box{
+
+	margin: 0px 0px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+	bottom:40px;
+}
+
+table.weekbox{
+
+	margin: 0px 0px;
+	background-color: ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+	bottom:40px;
+}
+
+table.login{
+
+	margin: 0px 0px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+	bottom:40px;
+}
+
+table.popup{
+
+	margin: 0px 0px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+}
+
+div.popup{
+
+	margin: 0px 0px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+}
+div.border{
+	margin: 0px 0px;
+	border: 1px solid black;
+}
+
+td.popup{
+	margin: 0px 0px;
+	background-color: #ffffff;
+	border: 1px solid black;
+	filter:alpha(opacity=50);
+	opacity:0.6;
+}
